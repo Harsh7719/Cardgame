@@ -3,6 +3,7 @@
 package javaapplication1;
 public class CardTrick {
     // harshdeep varma 
+    System.out.println(" this is harsh");
     
     
     
